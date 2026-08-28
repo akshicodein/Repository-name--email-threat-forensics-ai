@@ -1,0 +1,24 @@
+Return-Path: <no-reply@secure-bank-login.com>
+Received: from mail.secure-bank-login.com (mail.secure-bank-login.com [198.51.100.77])
+	by mx.example-corp.com with ESMTP id ph001
+	for <user@example-corp.com>; Mon, 24 Aug 2026 10:05:00 +0000
+Authentication-Results: mx.example-corp.com; spf=fail smtp.mailfrom=secure-bank-login.com; dkim=none; dmarc=fail header.from=secure-bank-login.com
+From: "Account Security" <alert@secure-bank-login.com>
+Reply-To: alert@secure-bank-login.com
+To: user@example-corp.com
+Subject: Your account has been temporarily locked
+Date: Mon, 24 Aug 2026 10:05:00 +0000
+Message-ID: <sec-alert-8842@secure-bank-login.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual activity on your account. Please verify your identity
+immediately to avoid suspension:
+
+https://secure-bank-login.com/verify/account?id=774411
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+Security Team
