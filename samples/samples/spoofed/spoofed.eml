@@ -1,0 +1,20 @@
+Return-Path: <ceo@company.com>
+Received: from unknown-relay.badinfra.net (unknown-relay.badinfra.net [203.0.113.99])
+	by mx.company.com with ESMTP id sp001
+	for <victim@company.com>; Mon, 24 Aug 2026 11:00:00 +0000
+Authentication-Results: mx.company.com; spf=fail smtp.mailfrom=company.com; dkim=fail header.d=company.com; dmarc=fail header.from=company.com
+From: "CEO - Company" <ceo@company.com>
+Reply-To: ceo@company.com
+To: victim@company.com
+Subject: Confidential request
+Date: Mon, 24 Aug 2026 11:00:00 +0000
+Message-ID: <spoof-991@company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi,
+
+Please handle this request discreetly and get back to me as soon as possible.
+
+Thanks,
+CEO
