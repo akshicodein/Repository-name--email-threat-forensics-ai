@@ -1,0 +1,16 @@
+{
+  "subject": "Congratulations - you've won a prize",
+  "body": "You have been selected to receive a cash prize of $50,000. To claim it, reply with your bank account and routing number within 48 hours.",
+  "sender": "claims@lottery-rewards-intl.top",
+  "reply_to": "claims@lottery-rewards-intl.top",
+  "display_name": "International Lottery Board",
+  "expected_domain": null,
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [],
+  "domains": [
+    "lottery-rewards-intl.top"
+  ],
+  "attachments": []
+}

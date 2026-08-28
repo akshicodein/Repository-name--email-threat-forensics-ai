@@ -1,0 +1,16 @@
+{
+  "subject": "Quick task before my flight",
+  "body": "I'm about to board and can't talk right now, but I need you to handle this quietly for me. Reach me only by email until I land.",
+  "sender": "jane.director@compahy.com",
+  "reply_to": "jane.director@compahy.com",
+  "display_name": "Jane Director",
+  "expected_domain": "company.com",
+  "spf": "none",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [],
+  "domains": [
+    "compahy.com"
+  ],
+  "attachments": []
+}

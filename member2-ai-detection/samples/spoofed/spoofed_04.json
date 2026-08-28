@@ -1,0 +1,16 @@
+{
+  "subject": "Vendor contact update",
+  "body": "Please note our accounts payable contact has changed. Direct future correspondence to this address going forward.",
+  "sender": "ap@acme-supp1ies.com",
+  "reply_to": "ap@acme-supp1ies.com",
+  "display_name": "Acme Supplies AP",
+  "expected_domain": "acme-supplies.com",
+  "spf": "none",
+  "dkim": "fail",
+  "dmarc": "none",
+  "urls": [],
+  "domains": [
+    "acme-supp1ies.com"
+  ],
+  "attachments": []
+}

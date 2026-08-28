@@ -1,0 +1,18 @@
+{
+  "subject": "Your GitHub Actions run succeeded",
+  "body": "The workflow 'build-and-test' completed successfully on branch main. View the run for details.",
+  "sender": "notifications@github.com",
+  "reply_to": "notifications@github.com",
+  "display_name": "GitHub",
+  "expected_domain": "github.com",
+  "spf": "pass",
+  "dkim": "pass",
+  "dmarc": "pass",
+  "urls": [
+    "https://github.com/org/repo/actions/runs/12345"
+  ],
+  "domains": [
+    "github.com"
+  ],
+  "attachments": []
+}

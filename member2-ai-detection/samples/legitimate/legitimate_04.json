@@ -1,0 +1,18 @@
+{
+  "subject": "Newsletter: This month in engineering",
+  "body": "Here's a roundup of what shipped this month, plus a couple of blog posts from the team.",
+  "sender": "newsletter@company.com",
+  "reply_to": "newsletter@company.com",
+  "display_name": "Company Engineering",
+  "expected_domain": "company.com",
+  "spf": "pass",
+  "dkim": "pass",
+  "dmarc": "pass",
+  "urls": [
+    "https://company.com/blog/august-roundup"
+  ],
+  "domains": [
+    "company.com"
+  ],
+  "attachments": []
+}

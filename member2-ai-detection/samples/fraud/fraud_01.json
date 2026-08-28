@@ -1,0 +1,20 @@
+{
+  "subject": "Revised invoice - updated payment details",
+  "body": "Please find attached the revised invoice. Note that our bank account details have changed, kindly update your records and process payment to the new account before the due date.",
+  "sender": "accounts@longtime-vendor.com",
+  "reply_to": "accounts.payable@vendor-mail.com",
+  "display_name": "Accounts Receivable",
+  "expected_domain": "longtime-vendor.com",
+  "spf": "fail",
+  "dkim": "none",
+  "dmarc": "fail",
+  "urls": [],
+  "domains": [
+    "longtime-vendor.com"
+  ],
+  "attachments": [
+    {
+      "name": "invoice_updated.pdf"
+    }
+  ]
+}

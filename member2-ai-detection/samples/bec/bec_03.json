@@ -1,0 +1,16 @@
+{
+  "subject": "Update vendor bank details ASAP",
+  "body": "Please update the bank account details for our vendor invoice and process the payment today. This comes directly from management, keep this between us until it's done.",
+  "sender": "cfo@compnay.com",
+  "reply_to": "cfo.finance@outlook.com",
+  "display_name": "CFO Finance",
+  "expected_domain": "company.com",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [],
+  "domains": [
+    "compnay.com"
+  ],
+  "attachments": []
+}

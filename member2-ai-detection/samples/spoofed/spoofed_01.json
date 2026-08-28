@@ -1,0 +1,18 @@
+{
+  "subject": "Your account will be suspended - verify now",
+  "body": "We detected unusual activity on your account. Verify your identity immediately to avoid suspension. Click here to confirm your account: login now.",
+  "sender": "support@paypa1-secure.com",
+  "reply_to": "no-reply@paypa1-secure.com",
+  "display_name": "PayPal Security",
+  "expected_domain": "paypal.com",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [
+    "http://paypa1-secure.com/verify-login"
+  ],
+  "domains": [
+    "paypa1-secure.com"
+  ],
+  "attachments": []
+}

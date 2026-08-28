@@ -1,0 +1,16 @@
+{
+  "subject": "Team lunch next Friday",
+  "body": "Hi all, just confirming we're doing team lunch next Friday at 12:30 at the usual place. Let me know if you can't make it.",
+  "sender": "sarah.chen@company.com",
+  "reply_to": "sarah.chen@company.com",
+  "display_name": "Sarah Chen",
+  "expected_domain": "company.com",
+  "spf": "pass",
+  "dkim": "pass",
+  "dmarc": "pass",
+  "urls": [],
+  "domains": [
+    "company.com"
+  ],
+  "attachments": []
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "URGENT: Password expires today",
+  "body": "Your password expires today. Confirm your identity and reset your password immediately by clicking the secure link below.",
+  "sender": "it-support@company-portal-login.xyz",
+  "reply_to": "it-support@company-portal-login.xyz",
+  "display_name": "IT Support",
+  "expected_domain": "company.com",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [
+    "http://198.51.100.23/reset-password-verify"
+  ],
+  "domains": [
+    "company-portal-login.xyz"
+  ],
+  "attachments": []
+}

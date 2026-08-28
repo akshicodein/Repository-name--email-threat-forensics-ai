@@ -1,0 +1,18 @@
+{
+  "subject": "Your Netflix payment failed",
+  "body": "We were unable to process your payment. Update your billing details now to avoid losing access to your account.",
+  "sender": "billing@netflix-account-support.click",
+  "reply_to": "billing@netflix-account-support.click",
+  "display_name": "Netflix",
+  "expected_domain": "netflix.com",
+  "spf": "fail",
+  "dkim": "none",
+  "dmarc": "fail",
+  "urls": [
+    "http://netflix-account-support.click/update-billing-login"
+  ],
+  "domains": [
+    "netflix-account-support.click"
+  ],
+  "attachments": []
+}

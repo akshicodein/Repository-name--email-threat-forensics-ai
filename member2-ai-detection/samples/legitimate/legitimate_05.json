@@ -1,0 +1,16 @@
+{
+  "subject": "Re: Design review feedback",
+  "body": "Thanks for the review! I've made the changes you suggested on the second page of the doc.",
+  "sender": "maria.lopez@company.com",
+  "reply_to": "maria.lopez@company.com",
+  "display_name": "Maria Lopez",
+  "expected_domain": "company.com",
+  "spf": "pass",
+  "dkim": "pass",
+  "dmarc": "pass",
+  "urls": [],
+  "domains": [
+    "company.com"
+  ],
+  "attachments": []
+}

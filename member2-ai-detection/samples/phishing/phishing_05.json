@@ -1,0 +1,18 @@
+{
+  "subject": "Document shared with you - action required",
+  "body": "A secure document has been shared with you. Click here to sign in and view it before the link expires.",
+  "sender": "docusign@docus1gn-notify.work",
+  "reply_to": "docusign@docus1gn-notify.work",
+  "display_name": "DocuSign",
+  "expected_domain": "docusign.net",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [
+    "http://docus1gn-notify.work/view?id=1"
+  ],
+  "domains": [
+    "docus1gn-notify.work"
+  ],
+  "attachments": []
+}

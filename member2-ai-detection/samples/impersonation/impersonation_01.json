@@ -1,0 +1,16 @@
+{
+  "subject": "Following up on our conversation",
+  "body": "As discussed, please send over the requested files when you get a chance. Let me know if you have questions.",
+  "sender": "ceo@fake-company-login.com",
+  "reply_to": "ceo@fake-company-login.com",
+  "display_name": "CEO John",
+  "expected_domain": "company.com",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [],
+  "domains": [
+    "fake-company-login.com"
+  ],
+  "attachments": []
+}

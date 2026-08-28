@@ -1,0 +1,20 @@
+{
+  "subject": "Q3 sprint retro notes",
+  "body": "Attaching the notes from today's retro. Nothing urgent, just wanted to share while it's fresh.",
+  "sender": "raj.patel@company.com",
+  "reply_to": "raj.patel@company.com",
+  "display_name": "Raj Patel",
+  "expected_domain": "company.com",
+  "spf": "pass",
+  "dkim": "pass",
+  "dmarc": "pass",
+  "urls": [],
+  "domains": [
+    "company.com"
+  ],
+  "attachments": [
+    {
+      "name": "retro-notes.pdf"
+    }
+  ]
+}

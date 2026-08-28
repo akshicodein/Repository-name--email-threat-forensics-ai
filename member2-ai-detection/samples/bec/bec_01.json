@@ -1,0 +1,18 @@
+{
+  "subject": "URGENT PAYMENT REQUIRED",
+  "body": "I need you to process a wire transfer immediately to a new vendor before end of day. This is time-sensitive and confidential, please don't discuss with anyone else on the team. Reply directly to me here.",
+  "sender": "ceo@fake-company.com",
+  "reply_to": "random@gmail.com",
+  "display_name": "John Smith",
+  "expected_domain": "company.com",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [
+    "https://fake-login.example"
+  ],
+  "domains": [
+    "fake-company.com"
+  ],
+  "attachments": []
+}

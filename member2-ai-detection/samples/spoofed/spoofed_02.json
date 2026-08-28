@@ -1,0 +1,18 @@
+{
+  "subject": "Unusual sign-in activity detected",
+  "body": "We noticed a sign-in from a new device. If this wasn't you, verify your account immediately or it will be suspended within 24 hours.",
+  "sender": "security-alert@0ffice365-verify.top",
+  "reply_to": "security-alert@0ffice365-verify.top",
+  "display_name": "Microsoft Account Team",
+  "expected_domain": "microsoft.com",
+  "spf": "fail",
+  "dkim": "fail",
+  "dmarc": "fail",
+  "urls": [
+    "https://bit.ly/3verify365"
+  ],
+  "domains": [
+    "0ffice365-verify.top"
+  ],
+  "attachments": []
+}
