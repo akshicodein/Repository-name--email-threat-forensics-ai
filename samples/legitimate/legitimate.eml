@@ -1,0 +1,20 @@
+Return-Path: <newsletter@example-corp.com>
+Received: from mail1.example-corp.com (mail1.example-corp.com [198.51.100.10])
+	by mx.example-corp.com with ESMTPS id xyz789
+	for <user@example-corp.com>; Mon, 24 Aug 2026 08:00:00 +0000
+Authentication-Results: mx.example-corp.com; spf=pass smtp.mailfrom=example-corp.com; dkim=pass header.d=example-corp.com; dmarc=pass header.from=example-corp.com
+From: "Example Corp Newsletter" <newsletter@example-corp.com>
+Reply-To: newsletter@example-corp.com
+To: user@example-corp.com
+Subject: Your Weekly Newsletter
+Date: Mon, 24 Aug 2026 08:00:00 +0000
+Message-ID: <news-2026-0824@example-corp.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi there,
+
+Here's your weekly roundup of updates from Example Corp. No action needed.
+
+Thanks,
+Example Corp Team
