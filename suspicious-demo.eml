@@ -1,0 +1,52 @@
+Return-Path: <bounce@mail-relay-svc.net>
+Delivered-To: cfo@northbridge-solutions.com
+Received: from mx-inbound.northbridge-solutions.com (mx-inbound.northbridge-solutions.com [198.51.100.22])
+	by mail.northbridge-solutions.com (Postfix) with ESMTPS id 4X7QqR3vYzz1AbC
+	for <cfo@northbridge-solutions.com>; Fri, 21 Aug 2026 08:12:47 +0000 (UTC)
+Received: from relay-out.mail-relay-svc.net (relay-out.mail-relay-svc.net [203.0.113.77])
+	by mx-inbound.northbridge-solutions.com with ESMTP id 7Y2KpN9wLxa0DeF
+	for <cfo@northbridge-solutions.com>; Fri, 21 Aug 2026 08:12:41 +0000 (UTC)
+Received: from vps-host-03.example-cloud-hosting.net (vps-host-03.example-cloud-hosting.net [192.0.2.184])
+	by relay-out.mail-relay-svc.net with ESMTP id 2M8jHt5sPqb1GhI;
+	Fri, 21 Aug 2026 08:12:33 +0000 (UTC)
+Authentication-Results: mx-inbound.northbridge-solutions.com;
+	spf=fail smtp.mailfrom=mail-relay-svc.net;
+	dkim=pass header.d=mail-relay-svc.net;
+	dmarc=fail (p=reject sp=reject dis=none) header.from=northbridge-solutions.com
+X-Originating-IP: [192.0.2.184]
+Message-ID: <a1f9c7e2-8b3d-4e51-9c6a-2f7d1b0e4c9a@mail-relay-svc.net>
+Date: Fri, 21 Aug 2026 08:12:30 +0000
+From: "Michael Carter, CEO" <ceo@northbridge-solutions.com>
+Reply-To: "Michael Carter" <m.carter.office@northbridge-solutions-finance.com>
+To: "Sarah Nguyen" <cfo@northbridge-solutions.com>
+Subject: URGENT PAYMENT REQUEST - Wire Approval Needed Before Noon
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 16.0
+
+Sarah,
+
+I need you to process an urgent outbound wire transfer before the noon
+deadline today. We are finalizing a confidential acquisition and I cannot
+discuss the details over the phone right now — I'm in back-to-back meetings
+with the board.
+
+Please treat this as strictly time-sensitive and confidential. Do not loop
+in anyone else on the finance team until the transfer is confirmed.
+
+Amount: $184,750.00
+Beneficiary bank details and authorization form are here, please review
+and confirm within the hour:
+
+  https://northbridge-solutions-verify.com/wire-authorization?ref=NB-2026-0821
+
+Reply to this email directly once it's done — my assistant is not on this
+thread and I'm using my personal line for replies today.
+
+Thanks for the quick turnaround.
+
+Michael Carter
+Chief Executive Officer
+Northbridge Solutions
+Sent from my iPhone
